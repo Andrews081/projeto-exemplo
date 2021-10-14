@@ -1,0 +1,7 @@
+.lista {
+    width: 100%;
+}
+
+.lista tr:nth-child() {
+    vertical-align: top;
+}
